@@ -1,4 +1,4 @@
-#!/usr/bin/env bash
+#!/bin/bash
 
 # Clean up yum caches to reduce the image size
 sudo yum clean all

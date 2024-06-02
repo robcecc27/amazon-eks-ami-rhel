@@ -1,4 +1,4 @@
-#!/usr/bin/env bash
+#!/bin/bash
 set -euo pipefail
 
 # More details about the mappings in this file can be found here https://docs.aws.amazon.com/eks/latest/userguide/add-ons-images.html

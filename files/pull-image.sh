@@ -1,4 +1,4 @@
-#!/usr/bin/env bash
+#!/bin/bash
 
 img=$1
 region=$(echo "${img}" | cut -f4 -d ".")

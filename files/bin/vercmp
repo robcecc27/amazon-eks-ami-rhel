@@ -1,4 +1,4 @@
-#!/usr/bin/env bash
+#!/bin/bash
 
 # Comparison expressions for semantic versions.
 # only supports semver standard MAJOR.MINOR.PATCH syntax;

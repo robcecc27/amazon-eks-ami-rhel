@@ -1,4 +1,4 @@
-#!/usr/bin/env bash
+#!/bin/bash
 
 # Not executing this script as part of RHEL AMI build.
 # set -o pipefail
